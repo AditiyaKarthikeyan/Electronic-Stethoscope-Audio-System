@@ -12,3 +12,5 @@ A summing amplifier (adder)
 An H-bridge driver to power a speaker
 
 Each module is first simulated in LTSpice, followed by stepwise breadboard integration. The system is designed for efficient audio amplification and real-time signal processing suitable for biomedical applications.
+
+The complete analog system was built and tested using the ADALM1000 for real-time signal observation, waveform analysis, and circuit debugging. 
